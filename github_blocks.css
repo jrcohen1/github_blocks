@@ -1,0 +1,52 @@
+h1{
+    color: dimgrey;
+    font-size: 55px;
+}
+
+.container1{
+    width: 1100px;
+    height: 80px;
+    padding: 30px;
+    margin: 30px;
+    background-color: gainsboro;
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container2{
+    width: 1100px;
+    height: 300px;
+    padding: 30px;
+    margin: 30px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container3{
+    width: 1100px;
+    height: 300px;
+    padding: 30px;
+    margin: 30px;
+    background-color: salmon;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container4{
+    width: 1100px;
+    height: 300px;
+    padding: 30px;
+    margin: 30px;
+    background-color: cornsilk;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container5{
+    width: 1100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
